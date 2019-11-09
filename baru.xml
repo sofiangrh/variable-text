@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"    "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd" [
+  <!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+  <!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+  <!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+  <!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+  <!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+  <!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+]>
+<svg>
+<variableSets  xmlns="&ns_vars;">
+  <variableSet  varSetName="binding1" locked="none">
+    <variables>
+      <variable varName="Siti Nurmilah" trait="textcontent" category="&ns_flows;"></variable>
+    </variables>
+    <v:sampleDataSets  xmlns:v="http://ns.adobe.com/Variables/1.0/" xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/">
+      <v:sampleDataSet dataSetName="Sarah Nur Fazriah">
+        <Siti Nurmilah>
+          <p>Sarah Nur Fazriah</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Siti Nurfadilah">
+        <Siti Nurmilah>
+          <p>Siti Nurfadilah</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Putri Sabilla Aulia Najiyah">
+        <Siti Nurmilah>
+          <p>Putri Sabilla Aulia Najiyah</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Septiana Tri Rahayu">
+        <Siti Nurmilah>
+          <p>Septiana Tri Rahayu</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Shazia Nikita Taufik">
+        <Siti Nurmilah>
+          <p>Shazia Nikita Taufik</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Dodi Alamsyah">
+        <Siti Nurmilah>
+          <p>Dodi Alamsyah</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Azis Syamsul Hamdani">
+        <Siti Nurmilah>
+          <p>Azis Syamsul Hamdani</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Danan Setiawan">
+        <Siti Nurmilah>
+          <p>Danan Setiawan</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Robi Nugraha">
+        <Siti Nurmilah>
+          <p>Robi Nugraha</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Zelvy Fauzan ">
+        <Siti Nurmilah>
+          <p>Zelvy Fauzan </p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Raihan Zain Rafif ">
+        <Siti Nurmilah>
+          <p>Raihan Zain Rafif </p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Ilyas Fathan Taufiq">
+        <Siti Nurmilah>
+          <p>Ilyas Fathan Taufiq</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Naufal Nur Hidayat">
+        <Siti Nurmilah>
+          <p>Naufal Nur Hidayat</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Bona Malela Pasha">
+        <Siti Nurmilah>
+          <p>Bona Malela Pasha</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Akmal Muhammad Al-Ghifarie">
+        <Siti Nurmilah>
+          <p>Akmal Muhammad Al-Ghifarie</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Muhammad Lutfy Zulpikor">
+        <Siti Nurmilah>
+          <p>Muhammad Lutfy Zulpikor</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+      <v:sampleDataSet dataSetName="Irfan Fadhilah">
+        <Siti Nurmilah>
+          <p>Irfan Fadhilah</p>
+        </Siti Nurmilah>
+      </v:sampleDataSet>
+    </v:sampleDataSets>
+  </variableSet>
+</variableSets>
+</svg>
