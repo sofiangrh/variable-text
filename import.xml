@@ -11,93 +11,98 @@
 <variableSets  xmlns="&ns_vars;">
   <variableSet  varSetName="binding1" locked="none">
     <variables>
-      <variable varName="Siti Nurmilah" trait="textcontent" category="&ns_flows;"></variable>
+      <variable varName="variabletext1" trait="textcontent" category="&ns_flows;"></variable>
     </variables>
     <v:sampleDataSets  xmlns:v="http://ns.adobe.com/Variables/1.0/" xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/">
+      <v:sampleDataSet dataSetName="Siti Nurmilah">
+        <variabletext1>
+          <p>Siti Nurmilah</p>
+        </variabletext1>
+      </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Sarah Nur Fazriah">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Sarah Nur Fazriah</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Siti Nurfadilah">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Siti Nurfadilah</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Putri Sabilla Aulia Najiyah">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Putri Sabilla Aulia Najiyah</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Septiana Tri Rahayu">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Septiana Tri Rahayu</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Shazia Nikita Taufik">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Shazia Nikita Taufik</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Dodi Alamsyah">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Dodi Alamsyah</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Azis Syamsul Hamdani">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Azis Syamsul Hamdani</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Danan Setiawan">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Danan Setiawan</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Robi Nugraha">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Robi Nugraha</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Zelvy Fauzan ">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Zelvy Fauzan </p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Raihan Zain Rafif ">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Raihan Zain Rafif </p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Ilyas Fathan Taufiq">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Ilyas Fathan Taufiq</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Naufal Nur Hidayat">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Naufal Nur Hidayat</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Bona Malela Pasha">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Bona Malela Pasha</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Akmal Muhammad Al-Ghifarie">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Akmal Muhammad Al-Ghifarie</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Muhammad Lutfy Zulpikor">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Muhammad Lutfy Zulpikor</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
       <v:sampleDataSet dataSetName="Irfan Fadhilah">
-        <Siti Nurmilah>
+        <variabletext1>
           <p>Irfan Fadhilah</p>
-        </Siti Nurmilah>
+        </variabletext1>
       </v:sampleDataSet>
     </v:sampleDataSets>
   </variableSet>
